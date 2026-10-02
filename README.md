@@ -2,7 +2,7 @@
 
 Computer Science M.S. candidate at George Washington University, focusing on Machine Intelligence and Cognition. Interested in data science, ML/AI, and software engineering opportunities.
 
-[Portfolio](https://abiy-abinet-portfolio.abiyabinet8.chatgpt.site) · [CV PDF](https://abiy-abinet-portfolio.abiyabinet8.chatgpt.site/Abiy_Mamo_CV.pdf) · [CV Word](https://abiy-abinet-portfolio.abiyabinet8.chatgpt.site/Abiy_Mamo_CV.docx) · [LinkedIn](https://www.linkedin.com/in/abiy-mamo-503185259/) · [Email](mailto:abiyabinet8@gmail.com)
+[Portfolio](https://abiy8.github.io) · [CV PDF](https://abiy8.github.io/Abiy_Mamo_CV.pdf) · [CV Word](https://abiy8.github.io/Abiy_Mamo_CV.docx) · [LinkedIn](https://www.linkedin.com/in/abiy-mamo-503185259/) · [Email](mailto:abiyabinet8@gmail.com)
 
 ## Selected projects
 
