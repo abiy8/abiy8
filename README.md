@@ -11,11 +11,11 @@ I explore practical problems through Python ML workflows, language-model applica
 | Project | Focus | Implementation / context |
 | --- | --- | --- |
 | [Multilingual YouTube Summarizer](https://github.com/abiy8/MultiLingual-YouTube-Summarizer-using-LLAMA3) | AI application | Gradio, LangChain, local Llama 3, caption-based summaries, optional translation |
-| [Big Mart Sales Prediction](https://github.com/abiy8/Big-Mart-sales-prediction) | ML regression | XGBoost notebook with retail features and R² evaluation; learning project |
-| [Movie Recommender](https://github.com/abiy8/Movie-recommendation-system-) | Recommendations / NLP | TF-IDF over movie metadata and cosine-similarity ranking |
-| [AI Study Planner](https://github.com/abiy8/AI-Study-Planner) | Software engineering | Flutter/Firebase client prototype; separate AI backend and build fixes required |
-| [Telecom Churn Analysis](https://github.com/abiy8/codeclause_task1) | Data science | Exploratory analysis and logistic regression; CodeClause learning task |
 | [Spam Classification](https://github.com/abiy8/OIBSIP_Task4) | NLP classification | CountVectorizer and multinomial Naive Bayes; Oasis Infobyte learning task |
+| [Movie Recommender](https://github.com/abiy8/Movie-recommendation-system-) | Recommendations / NLP | TF-IDF over movie metadata and cosine-similarity ranking |
+| [Big Mart Sales Prediction](https://github.com/abiy8/Big-Mart-sales-prediction) | ML regression | XGBoost notebook with retail features and R² evaluation; learning project |
+| [Telecom Churn Analysis](https://github.com/abiy8/codeclause_task1) | Data science | Exploratory analysis and logistic regression; CodeClause learning task |
+| [AI Study Planner](https://github.com/abiy8/AI-Study-Planner) | Software engineering | Flutter/Firebase client prototype; separate AI backend and build fixes required |
 
 ## Technologies represented in my repositories
 
