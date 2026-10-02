@@ -4,7 +4,7 @@ Data science, machine learning, AI, and software engineering projects and course
 
 I explore practical problems through Python ML workflows, language-model applications, and Flutter software. This profile highlights selected repositories with implementation details and honest project context.
 
-[LinkedIn](https://www.linkedin.com/in/abiy-mamo-503185259/) · [Email](mailto:abiyabinet8@gmail.com)
+[Portfolio](https://abiy-abinet-portfolio.abiyabinet8.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/abiy-mamo-503185259/) · [Email](mailto:abiyabinet8@gmail.com)
 
 ## Selected projects
 
